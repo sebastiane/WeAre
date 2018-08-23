@@ -1,0 +1,91 @@
+html, body
+{
+    background-color:#fff;
+}
+div.allblack .bt .btr, div.allblack .bt .btl, div.allblack .bb .bbr, div.allblack .bb .bbl{
+    background-image: none !important;
+    background-color: transparent !important;
+    color: #EC1C24 !important;
+}
+div.allblack .bmr, div.allblack .bml
+{
+    background-color: none;
+}
+table.positiontb th.group_title{
+    background-color: #EC1C24 !important;
+    color: #fff !important;
+}
+.positiontb th{
+    background-color: #fff !important;
+    color: #000 !important;
+    font-weight:bold;
+}
+.positiontb .odd td{
+    background-color: #fff !important;
+}
+div.allblack table a:hover, div.allblack table a:visited, div.allblack table a, .positiontb a{
+    color: #000 !important;
+}
+
+.btr span
+{
+    display: block;
+    font-size:150%;
+    font-weight:bold;
+}
+#phase-table{
+    margin-top:10px;
+}
+#ui-datepicker-div{
+    display:none;
+}*
+{
+    background-image: none !important;
+    background-color: transparent !important;
+    color:black !important;
+}
+.tab_on .tl, .tab_on .tr, .tab_on .tc, .tab_off:hover .tl, .tab_off:hover .tr, .tab_off:hover .tc {
+    background-image: none !important;
+}
+
+.allgrey .bt .btr, .allgrey .bt .btl, .allgrey .bb .bbr, .allgrey .bb .bbl {
+    background-image: none !important;
+}
+
+#phase_dates ul li a.fecha {
+    background:gray !important;
+}
+
+
+#championship_players a {
+    color: #FFFFFF;
+    display: block;
+}
+.small_box_profile
+{
+    text-align:center;
+    width:80px;
+}
+
+
+div.blackgrey .bt .btr, div.blackgrey .bt .btl, div.blackgrey .bb .bbr, div.blackgrey .bb .bbl {
+    background-image: none !important;
+}
+
+table.tablesorter th {
+    background-color:#EC1C24 !important;
+    color:white !important;
+}
+
+table.tablesorter tr:nth-child(2n+1) {
+    background-color: lightgray !important;
+}
+
+table.tablesorter tr:nth-child(2n) {
+    background-color:#fff !important;
+}
+
+#main
+{
+    width:100%;
+}
